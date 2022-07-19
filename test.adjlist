@@ -1,0 +1,10 @@
+#/home/paulo/.local/lib/python3.8/site-packages/ipykernel_launcher.py -f /home/paulo/.local/share/jupyter/runtime/kernel-7c696981-895c-4ec4-bd4d-0e15fe05c5ca.json
+# GMT Mon Jul 18 21:38:07 2022
+# 
+0 1 2 3 4 5 6
+1 2 3 4 5 6
+2 3 4 5 6
+3 4 5 6
+4 5 6
+5 6
+6
